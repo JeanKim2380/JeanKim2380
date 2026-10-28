@@ -1,6 +1,6 @@
 ## Hi, I'm Jean Kim
 
-Data scientist with an MSc in Data Science and a decade of commercial experience, including five years of analytical role in insurance and consumer electronics. I build and evaluate machine learning and NLP models in Python, and explain what they can and can't do to the people who use them.
+Data scientist with an MSc in Data Science and a decade of commercial experience, including five years of analytical role in insurance and consumer electronics. I build and evaluate machine learning and NLP models in Python.
 
 - **Focus:** machine learning, natural language processing (NLP) and LLMs, rigorous model evaluation
 - **Background:** marketing analytics, budget forecasting and BI reporting
