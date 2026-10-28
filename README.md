@@ -6,13 +6,16 @@ Data scientist with an MSc in Data Science and a decade of commercial experience
 - **Background:** marketing analytics, budget forecasting and BI reporting
 - **Based in:** London, UK
 
-### Featured project
+### Featured projects
 
-**[diabetes-type-classification](https://github.com/JeanKim2380/diabetes-type-classification)**: Type 1 vs Type 2 diabetes classification on CDC BRFSS 2024 survey data. It covers imbalanced classification, mixed-type feature association analysis, interpretable logistic regression, random forests with CV-selected resampling and thresholds, and permutation importance.
+- **[financial-complaint-severity-classification](https://github.com/JeanKim2380/financial-complaint-severity-classification)**: single- vs multi-task Transformer–BiGRU models (RoBERTa, DistilBERT, FinBERT) for detecting financial complaints and classifying their severity. Multi-task learning improves severity macro-F1 by 5–16 points.
+- **[diabetes-type-classification](https://github.com/JeanKim2380/diabetes-type-classification)**: Type 1 vs Type 2 diabetes classification on CDC BRFSS 2024 survey data, with imbalanced-class handling, interpretable logistic regression, random forests with CV-selected resampling and thresholds, and permutation importance.
+- **[medical-insurance-cost-regression](https://github.com/JeanKim2380/medical-insurance-cost-regression)**: MLP (PyTorch/skorch) vs SVR for insurance cost prediction, using leakage-free pipelines and 5-fold grid search (test R² ≈ 0.86).
+- **[insurance-customer-classification](https://github.com/JeanKim2380/insurance-customer-classification)**: logistic regression vs naive Bayes for finding caravan-insurance customers in a 6%-positive dataset, with nested CV, leakage-free oversampling and a Wilcoxon test (MATLAB).
 
 ### Tools
 
-Python · SQL · PyTorch · Hugging Face · scikit-learn · pandas · NumPy · SciPy · Matplotlib · Databricks · Power BI · Tableau · Git
+Python · SQL · PyTorch · Hugging Face · scikit-learn · MATLAB · pandas · NumPy · SciPy · Matplotlib · Databricks · Power BI · Tableau · Git
 
 ### Contact
 
