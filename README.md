@@ -3,7 +3,7 @@
 Data scientist with an MSc in Data Science and a decade of commercial experience, including five years in analytical roles in insurance and consumer electronics. I build and evaluate machine learning and NLP models in Python.
 
 - **Focus:** machine learning, natural language processing (NLP) and LLMs, rigorous model evaluation
-- **Background:** marketing analytics, budget forecasting and BI reporting
+- **Background:** marketing analytics, BI reporting
 - **Based in:** London, UK
 
 ### Featured projects
