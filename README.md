@@ -14,7 +14,7 @@ Data scientist who has just finished an MSc in Data Science (results due Nov/Dec
 
 ### Tools
 
-Python · SQL · PyTorch · Hugging Face · scikit-learn · pandas · NumPy · SciPy · Matplotlib · Databricks · Power BI · Tableau · Git
+Python · SQL · PyTorch · Hugging Face · scikit-learn · pandas · NumPy · Matplotlib · Databricks · Power BI · Tableau · Git
 
 ### Contact
 
